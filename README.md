@@ -1,2 +1,2 @@
 # Web Scraping
-Coletar dados financeiros (ações ou criptomoedas) de sites da web, armazenar em um formato estruturado (como CSV ou banco de dados SQL) e realizar uma análise inicial para identificar tendências de mercado. Esse projeto vai demonstrar suas habilidades em Python, manipulação de dados e análise de tendências.
+Collect financial data (stocks or cryptocurrencies) from websites, store it in a structured format (such as CSV or SQL database), and perform initial analysis to identify market trends. This project will demonstrate your skills in Python, data manipulation, and trend analysis.
